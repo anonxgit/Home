@@ -1,2 +1,2 @@
-# first-repo
-016175 = Digits (leet)
+Welcome
+016175 = DIGITS (leet)
